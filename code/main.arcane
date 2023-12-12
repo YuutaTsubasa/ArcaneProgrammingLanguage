@@ -1,0 +1,5 @@
+val a: Float32 = 5.0;
+val b: Int32 = 6;
+val c: Float64 = a * b;
+val d: Bool = true;
+return b;
